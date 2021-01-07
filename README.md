@@ -1,2 +1,2 @@
 # Screenshots:
-![video-call _app_icon](https://user-images.githubusercontent.com/48565759/103224355-91103500-494d-11eb-926b-ed424793a7b1.png)
+![Webp net-resizeimage (1)](https://user-images.githubusercontent.com/48565759/103922108-51a9cb80-5139-11eb-83db-91ea7a2ab91d.png)

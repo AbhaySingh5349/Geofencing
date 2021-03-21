@@ -13,9 +13,10 @@
 
 
 # Libraries and APIs:
---> [GeoFire Firebase Library](https://github.com/firebase/geofire-android)
 
 --> [GoogleApiClient](https://developers.google.com/android/reference/com/google/android/gms/common/api/GoogleApiClient)
+
+--> [GeoFire Firebase Library](https://github.com/firebase/geofire-android)
 
 --> [FusedLocationProviderClient](https://developers.google.com/android/reference/com/google/android/gms/location/FusedLocationProviderClient)
 

@@ -1,7 +1,7 @@
 # Features of App:
---> Searching places nearby.
-
 --> Adding Geofences(50m) to location.
+
+--> Searching places nearby.
 
 --> Receiving notifications when in proximity to saved location.
 
